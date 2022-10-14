@@ -1,1 +1,48 @@
+body {
+  background-color:black;
+  margin:10% 20%;
+}
 
+h1 {
+  color:white;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+  width: 45%
+    
+}
+li, h3, h4, h5, h6, p{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+  border: 1px solid grey;
+  padding-left: 10px;
+  background: grey
+ 
+}
+
+.footer{
+  background: grey;
+  color: grey;
+  border: 1px solid grey;
+  padding-left: 10px;
+}
+
+.exp-header {
+ text-transform: uppercase;
+ text-align: center;
+ 
+  
+}
+
+h5 {
+  margin:3% 6%;
+}
+
+h6 {
+  margin:9% 12%;
+}
